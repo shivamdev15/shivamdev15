@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Shivam 👋
 
-<!--
-**shivamdev15/shivamdev15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer getting started in software engineering, currently building projects to sharpen my skills and figure out where I want to specialize.
 
-Here are some ideas to get you started:
+## 🧠 Featured project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[AI Code Reviewer](https://github.com/shivamdev15/ai-code-reviewer)** — An AI-powered tool that gives instant, structured code review feedback (bugs, security, readability, suggestions) on any code snippet.
+- 🔗 [Live demo](https://ai-code-reviewer-a1s7.onrender.com)
+- Built with Node.js, Express, and the Google Gemini API
+
+## 🛠️ What I'm working with
+
+`JavaScript` `Node.js` `Express` `HTML/CSS` `Git & GitHub`
+
+## 📌 What I'm doing now
+
+Building small, real projects one at a time — focused on finishing things end-to-end (built, tested, deployed) rather than starting a lot and not shipping.
+
+---
+⭐ More projects coming soon — check back or follow along.
