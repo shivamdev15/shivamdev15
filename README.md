@@ -2,15 +2,19 @@
 
 I'm a developer getting started in software engineering, currently building projects to sharpen my skills and figure out where I want to specialize.
 
-## 🧠 Featured project
+## 🧠 Featured projects
 
 **[AI Code Reviewer](https://github.com/shivamdev15/ai-code-reviewer)** — An AI-powered tool that gives instant, structured code review feedback (bugs, security, readability, suggestions) on any code snippet.
 - 🔗 [Live demo](https://ai-code-reviewer-a1s7.onrender.com)
 - Built with Node.js, Express, and the Google Gemini API
 
+**[Mini Video Platform](https://github.com/shivamdev15/video-platform)** — A YouTube-inspired app to catalog, like, and comment on videos, backed by a real relational database.
+- 🔗 [Live demo](https://video-platform-ifxf.onrender.com)
+- Built with Node.js, Express, and SQLite — full CRUD with related data (videos → comments)
+
 ## 🛠️ What I'm working with
 
-`JavaScript` `Node.js` `Express` `HTML/CSS` `Git & GitHub`
+`JavaScript` `Node.js` `Express` `SQL` `HTML/CSS` `Git & GitHub`
 
 ## 📌 What I'm doing now
 
