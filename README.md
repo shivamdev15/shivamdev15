@@ -15,11 +15,15 @@ I'm a developer getting started in software engineering, currently building proj
 **[Task Manager](https://github.com/shivamdev15/task-manager)** — A personal task manager with real user accounts, password hashing, and private per-user data.
 - 🔗 [Live demo](https://task-manager-9ebp.onrender.com)
 - Built with Node.js, Express, sessions, and bcrypt for secure authentication
- 
+
+**[GitHub Profile Analyzer](https://github.com/shivamdev15/github-analyzer)**
+— A React app that visualizes any GitHub user's stats and top languages, pulling live    data from GitHub's public API.
+- 🔗 [Live demo](https://rad-cascaron-faa32a.netlify.app)
+- Built with React and Vite — pure frontend, no backend server needed
+
 ## 🛠️ What I'm working with
 
- `JavaScript` `Node.js` `Express` `SQL` `Authentication` `HTML/CSS` `Git & GitHub`
-
+`JavaScript` `React` `Node.js` `Express` `SQL` `Authentication` `HTML/CSS` `Git & GitHub`
 ## 📌 What I'm doing now
 
 Building small, real projects one at a time — focused on finishing things end-to-end (built, tested, deployed) rather than starting a lot and not shipping.
