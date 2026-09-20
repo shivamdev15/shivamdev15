@@ -12,9 +12,11 @@ I'm a developer getting started in software engineering, currently building proj
 - 🔗 [Live demo](https://video-platform-ifxf.onrender.com)
 - Built with Node.js, Express, and SQLite — full CRUD with related data (videos → comments)
 
+ **[Task Manager](https://github.com/shivamdev15/task-manager)** — A personal task manager with real user accounts, password hashing, and private per-user data. - 🔗 [Live demo](https://task-manager-9ebp.onrender.com) - Built with Node.js, Express, sessions, and bcrypt for secure authentication
+ 
 ## 🛠️ What I'm working with
 
-`JavaScript` `Node.js` `Express` `SQL` `HTML/CSS` `Git & GitHub`
+ `JavaScript` `Node.js` `Express` `SQL` `Authentication` `HTML/CSS` `Git & GitHub`
 
 ## 📌 What I'm doing now
 
