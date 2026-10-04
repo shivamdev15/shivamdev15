@@ -1,33 +1,28 @@
 # Hi, I'm Shivam 👋
 
-I'm a developer getting started in software engineering, currently building projects to sharpen my skills and figure out where I want to specialize.
+I'm a developer getting started in software engineering, building real, deployed projects to sharpen my skills and figure out where I want to specialize — currently exploring full-stack, databases, auth, and real-time apps.
 
 ## 🧠 Featured projects
 
-**AI Code Reviewer** — An AI-powered tool that gives instant, structured code review feedback (bugs, security, readability, suggestions) on any code snippet.
-
-- 🔗 [Live demo]
+**[AI Code Reviewer](https://github.com/shivamdev15/ai-code-reviewer)** — An AI-powered tool that gives instant, structured code review feedback (bugs, security, readability, suggestions) on any code snippet.
+- 🔗 [Live demo](https://ai-code-reviewer-a1s7.onrender.com)
 - Built with Node.js, Express, and the Google Gemini API
 
-**Mini Video Platform** — A YouTube-inspired app to catalog, like, and comment on videos, backed by a real relational database.
-
-- 🔗 [Live demo]
+**[Mini Video Platform](https://github.com/shivamdev15/video-platform)** — A YouTube-inspired app to catalog, like, and comment on videos, backed by a real relational database.
+- 🔗 [Live demo](https://video-platform-ifxf.onrender.com)
 - Built with Node.js, Express, and SQLite — full CRUD with related data (videos → comments)
 
-**Task Manager** — A personal task manager with real user accounts, password hashing, and private per-user data.
-
-- 🔗 [Live demo]
+**[Task Manager](https://github.com/shivamdev15/task-manager)** — A personal task manager with real user accounts, password hashing, and private per-user data.
+- 🔗 [Live demo](https://task-manager-9ebp.onrender.com)
 - Built with Node.js, Express, sessions, and bcrypt for secure authentication
 
-**Real-Time Chat App** — A full-stack real-time messaging application with public chat, private chat, replies, reactions, attachments, profiles, notifications, and responsive mobile UI.
-
-- 🔗 [GitHub repository](https://github.com/shivamdev15/chat-app)
+**[Real-Time Chat App](https://github.com/shivamdev15/chat-app)** — A full-stack real-time messaging app with public and private chat, replies, reactions, file attachments, user profiles, and a responsive mobile UI.
+- 🔗 [Live demo](https://chat-app-ltjc.onrender.com)
 - Built with Node.js, Express, Socket.IO, MongoDB, Mongoose, sessions, bcrypt, and Multer
 - 🚀 Deployed with Render
 
-**GitHub Profile Analyzer** — A React app that visualizes any GitHub user's stats and top languages, pulling live data from GitHub's public API.
-
-- 🔗 [Live demo]
+**[GitHub Profile Analyzer](https://github.com/shivamdev15/github-analyzer)** — A React app that visualizes any GitHub user's stats and top languages, pulling live data from GitHub's public API.
+- 🔗 [Live demo](https://rad-cascaron-faa32a.netlify.app)
 - Built with React and Vite — pure frontend, no backend server needed
 
 ## 🛠️ What I'm working with
@@ -39,5 +34,4 @@ I'm a developer getting started in software engineering, currently building proj
 Building small, real projects one at a time — focused on finishing things end-to-end (built, tested, deployed) rather than starting a lot and not shipping.
 
 ---
-
 ⭐ More projects coming soon — check back or follow along.
